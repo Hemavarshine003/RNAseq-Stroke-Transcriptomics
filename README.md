@@ -13,12 +13,48 @@ The RNA-seq dataset was analyzed using the following pipeline:
 
 ## Results
 
-### RNA-seq Quality Control
 
-![Quality Scores](results/fastqc/per_base_quality.png)
+## RNA-seq Quality Control
 
-### Differential Expression
+Quality assessment of sequencing reads was performed using FastQC.
 
-![PCA Plot](results/differential_expression/pca_plot.png)
+### Per Base Sequence Quality
+![Per Base Quality](results/fastqc/per_base_quality.png)
 
-![Volcano Plot](results/differential_expression/volcano_plot.png)
+### Adapter Content
+![Adapter Content](results/fastqc/adapter content.png)
+
+### Sequence Length Distribution
+![Sequence Length](results/fastqc/seq_length_distribution.png)
+
+### Sequence Duplication
+![Sequence Duplication](results/fastqc/sequence_duplication.png)
+
+## Differential Gene Expression Results
+
+Differential expression analysis was performed to identify genes significantly altered between stroke patients and healthy controls.
+
+### PCA Plot
+
+Principal Component Analysis (PCA) showing clustering of stroke and control samples.
+
+![PCA Plot](results/differential_expression/PCA_Plot.png)
+
+### Volcano Plot
+
+Visualization of significantly upregulated and downregulated genes.
+
+![Volcano Plot](results/differential_expression/volcano plot.png)
+
+### Heatmap of Differentially Expressed Genes
+
+Heatmap representing the expression patterns of top differentially expressed genes.
+
+![Heatmap](results/differential_expression/Heatmap.png)
+
+### Pathway Enrichment Analysis
+
+Biological pathway enrichment analysis of significantly regulated genes.
+
+![Pathway Analysis](results/differential_expression/pathway analysis.png)
+
