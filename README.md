@@ -55,5 +55,5 @@ Heatmap representing the expression patterns of top differentially expressed gen
 
 Biological pathway enrichment analysis of significantly regulated genes.
 
-![pathway Analysis](results/differential_expression/pathway_analysis.png
+![pathway Analysis](results/differential_expression/pathway_analysis.png)
 
