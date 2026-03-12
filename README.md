@@ -95,6 +95,9 @@ Biological pathway enrichment analysis of significantly regulated genes.
 
 ## Project Structure
 
+## Project Structure
+
+```
 RNAseq-Stroke-Transcriptomics
 │
 ├── data
@@ -111,4 +114,5 @@ RNAseq-Stroke-Transcriptomics
 │       └── PCA, volcano plots, heatmaps, pathway analysis
 │
 └── README.md
+```
 
