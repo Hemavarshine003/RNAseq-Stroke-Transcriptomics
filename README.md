@@ -57,7 +57,7 @@ Quality assessment of sequencing reads was performed using FastQC.
 ![Per Base Quality](results/fastqc/per_base_quality.png)
 
 ### Adapter Content
-![Adapter Content](results/fastqc/adapter content.png)
+![Adapter Content](results/fastqc/adaptercontent.png)
 
 ### Sequence Length Distribution
 ![Sequence Length](results/fastqc/seq_length_distribution.png)
