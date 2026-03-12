@@ -43,7 +43,7 @@ Principal Component Analysis (PCA) showing clustering of stroke and control samp
 ### Volcano Plot
 
 Visualization of significantly upregulated and downregulated genes.
-![volcano Plot](results/differential_expression/volcano_plot.png)
+![Volcano Plot](results/differential_expression/volcano_plot.png)
 
 ### Heatmap of Differentially Expressed Genes
 
