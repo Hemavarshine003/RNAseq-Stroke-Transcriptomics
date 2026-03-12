@@ -49,7 +49,8 @@ The RNA-seq transcriptomic analysis was performed using the following tools and 
 ## Results
 
 
-## RNA-seq Quality Control
+
+## RNA-seq Quality Control (FastQC)
 
 Quality assessment of sequencing reads was performed using FastQC.
 
@@ -57,13 +58,20 @@ Quality assessment of sequencing reads was performed using FastQC.
 ![Per Base Quality](results/fastqc/per_base_quality.png)
 
 ### Adapter Content
-![Adapter Content](results/fastqc/adaptercontent.png)
+![Adapter Content](results/fastqc/adapter%20content.png)
 
 ### Sequence Length Distribution
-![Sequence Length](results/fastqc/seq_length_distribution.png)
+![Sequence Length Distribution](results/fastqc/seq_length_distribution.png)
 
-### Sequence Duplication
+### Sequence Duplication Levels
 ![Sequence Duplication](results/fastqc/sequence_duplication.png)
+
+### Overall FastQC Report
+![Overall FastQC](results/fastqc/overall_fastqc_report.png)
+
+### FastQC Summary
+![FastQC Report](results/fastqc/fast%20qc%20report.png)
+
 
 ## Differential Gene Expression Results
 
