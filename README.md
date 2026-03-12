@@ -101,7 +101,14 @@ Biological pathway enrichment analysis of significantly regulated genes.
 ![pathway Analysis](results/differential_expression/pathway_analysis.png)
 
 
-## Project Structure
+## Key Results
+
+- Quality control analysis confirmed high-quality sequencing reads using FastQC.
+- Principal Component Analysis (PCA) showed clear clustering patterns between sample groups.
+- Differential gene expression analysis identified significantly upregulated and downregulated genes.
+- Volcano plot visualization highlighted statistically significant gene expression changes.
+- Heatmap analysis revealed clustering of genes with similar expression profiles.
+- Pathway analysis suggested biological processes potentially associated with the observed gene expression changes.
 
 ## Project Structure
 
